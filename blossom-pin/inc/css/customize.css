@@ -91,3 +91,8 @@ label.row-element.more-detail{
   color: #0073aa;
   cursor: pointer;
 }
+
+
+#accordion-section-blossom_pin_page_view_pro .accordion-section-title::after{
+   content: none;
+}
